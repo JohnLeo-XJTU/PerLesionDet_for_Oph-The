@@ -1,0 +1,6 @@
+Paving_Stone_Degeneration
+Retinal_Breaks
+Lattice_Degeneration
+White_without_Pressure
+Cystic_Retinal_Tuft
+Retinal_Detachment
